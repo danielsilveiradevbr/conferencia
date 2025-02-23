@@ -22,6 +22,6 @@ go.work
 go.work.sum
 
 cmd/server/app.log
-
+app.log
 # env file
 .env
